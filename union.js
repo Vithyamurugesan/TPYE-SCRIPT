@@ -1,0 +1,6 @@
+"use strict";
+let value;
+value = 120;
+console.log("The Numeric value of a value is :" + value);
+value = "Welcome to union";
+console.log("The string value of a value is " + value);
