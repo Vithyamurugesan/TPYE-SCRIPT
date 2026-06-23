@@ -1,5 +1,5 @@
 // 1. 
-let empName: string = "Haritha";
+let empName: string = "Vithya";
 let wages: number = 500;
 let daysWorked: number = 25;
 

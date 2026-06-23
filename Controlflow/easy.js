@@ -1,6 +1,6 @@
 "use strict";
 // 1. 
-let empName = "Haritha";
+let empName = "Vithya";
 let wages = 500;
 let daysWorked = 25;
 let totalSalary = wages * daysWorked;
